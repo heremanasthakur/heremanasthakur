@@ -1,0 +1,56 @@
+<svg width="1024" height="300" viewBox="0 0 1024 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8A63F5"/>
+      <stop offset="100%" stop-color="#00B8A9"/>
+    </linearGradient>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0f1a"/>
+      <stop offset="100%" stop-color="#0a0c14"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M 34 0 L 0 0 0 34" fill="none" stroke="#8A63F5" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- background -->
+  <rect width="1024" height="300" fill="url(#bgGrad)"/>
+  <rect width="1024" height="300" fill="url(#grid)"/>
+
+  <!-- corner brackets -->
+  <path d="M 30 40 L 30 70 L 60 70" fill="none" stroke="#8A63F5" stroke-width="2"/>
+  <path d="M 994 40 L 994 70 L 964 70" fill="none" stroke="#00B8A9" stroke-width="2"/>
+  <path d="M 30 260 L 30 230 L 60 230" fill="none" stroke="#00B8A9" stroke-width="2"/>
+  <path d="M 994 260 L 994 230 L 964 230" fill="none" stroke="#8A63F5" stroke-width="2"/>
+
+  <!-- status dots -->
+  <circle cx="930" cy="55" r="4" fill="#8A63F5"/>
+  <circle cx="948" cy="55" r="4" fill="#4a4a6a"/>
+  <circle cx="966" cy="55" r="4" fill="#00B8A9"/>
+
+  <!-- ML tag icon -->
+  <rect x="85" y="130" width="34" height="40" rx="4" fill="none" stroke="#00B8A9" stroke-width="1.5" opacity="0.7"/>
+  <text x="102" y="155" font-family="Fira Code, monospace" font-size="16" fill="#00B8A9" text-anchor="middle" opacity="0.85">ML</text>
+
+  <!-- name -->
+  <text x="512" y="150" font-family="Fira Code, Consolas, monospace" font-size="58" font-weight="700" fill="url(#nameGrad)" text-anchor="middle" filter="url(#glow)" letter-spacing="4">MANAS THAKUR</text>
+
+  <!-- underline -->
+  <line x1="290" y1="172" x2="734" y2="172" stroke="url(#nameGrad)" stroke-width="2"/>
+
+  <!-- tagline -->
+  <text x="512" y="205" font-family="Fira Code, monospace" font-size="19" fill="#00B8A9" text-anchor="middle" letter-spacing="3">DATA SCIENCE &#183; MACHINE LEARNING &#183; AI &#183; DEEP LEARNING</text>
+
+  <!-- footer bar -->
+  <line x1="30" y1="248" x2="994" y2="248" stroke="#8A63F5" stroke-opacity="0.25" stroke-width="1"/>
+  <text x="50" y="272" font-family="Fira Code, monospace" font-size="13" fill="#8A63F5" letter-spacing="1">[ MODEL: TRAINED ]</text>
+  <text x="512" y="272" font-family="Fira Code, monospace" font-size="13" fill="#6b7280" text-anchor="middle" letter-spacing="1">github.com/heremanasthakur</text>
+  <text x="974" y="272" font-family="Fira Code, monospace" font-size="13" fill="#00B8A9" text-anchor="end" letter-spacing="1">[ READY ]</text>
+</svg>
