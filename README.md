@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- TYPING SVG HERO -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1000&color=8A63F5&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=Hi+there%2C+I'm+Manas+Thakur+%F0%9F%91%8B;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+into+Decisions.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=8A63F5&center=true&vCenter=true&multiline=false&repeat=true&width=900&height=60&lines=Hi+there%2C+I'm+Manas+Thakur+%F0%9F%91%8B;Data+Science+%26+Machine+Learning+Enthusiast;Turning+Data+into+Decisions.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -67,6 +67,18 @@ I'm currently sharpening my skills in **probabilistic modeling, predictive analy
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3499CD?style=for-the-badge&logo=xgboost&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-4A7FA7?style=for-the-badge)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-E8734A?style=for-the-badge&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 **Databases & Tools**
 
@@ -176,6 +188,10 @@ SEEKING      data science / ml intern    Open to opportunities — let's connect
 
 <br/>
 
+![Snake animation](https://raw.githubusercontent.com/heremanasthakur/heremanasthakur/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0,8A63F5,00B8A9,0d1117&height=90&section=footer&animation=twinkling)
 
 </div>
@@ -202,5 +218,13 @@ SEEKING      data science / ml intern    Open to opportunities — let's connect
   6. Consider adding a proper README to each of your two project repos (what it does, 
      screenshot, how to run it, tech stack) — this matters more than the profile README itself.
 
-  7. No snake animation included, per your request.
+  7. SNAKE ANIMATION SETUP:
+     a. In your "heremanasthakur" repo, create a new file at this exact path:
+        .github/workflows/snake.yml
+     b. Paste in the contents of the "snake.yml" file shared alongside this README.
+     c. Commit it. Go to the repo's "Actions" tab and manually run the
+        "generate animation" workflow once (it also auto-runs daily after that).
+     d. It will create an "output" branch with the snake SVG — the README link
+        above already points to it, so it'll just start working once that
+        branch exists.
 -->
