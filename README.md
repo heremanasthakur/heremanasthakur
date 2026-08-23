@@ -7,6 +7,10 @@
 
 <br/>
 
+![Banner](https://raw.githubusercontent.com/heremanasthakur/heremanasthakur/main/banner.svg)
+
+<br/>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/itsmanasthakur/)
 [![Email](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:manas75642@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-heremanasthakur-%23181717?style=for-the-badge&logo=github&logoColor=8A63F5&labelColor=0d1117)](https://github.com/heremanasthakur)
@@ -28,6 +32,20 @@ I'm a **B.Tech student at Rajiv Gandhi Institute of Petroleum Technology**, pass
 I'm currently sharpening my skills in **probabilistic modeling, predictive analytics, and applied ML**, and actively looking for **Data Science / ML internship opportunities** where I can contribute and grow.
 
 > *"Data doesn't lie — it just needs someone patient enough to ask it the right questions."*
+
+---
+
+### 🎯 Core Focus
+
+<div align="center">
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-8A63F5?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-00B8A9?style=for-the-badge&logo=openai&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A63F5?style=for-the-badge&logo=pytorch&logoColor=white)
+
+*Actively deepening my skills in these areas — always open to collaborate or learn together.*
+
+</div>
 
 ---
 
@@ -169,6 +187,8 @@ SEEKING      data science / ml intern    Open to opportunities — let's connect
      this is a special GitHub feature that auto-displays the repo's README on your profile.
 
   2. Put this file as README.md inside that repo, at the root.
+     Also upload the separate "banner.svg" file to the ROOT of that same repo
+     (same folder as README.md) — the banner image link depends on it being there.
 
   3. Pin these repos on your profile (Profile → Customize your pins):
      - Bayesian-EV-fault-diagnosis-dashboard-
